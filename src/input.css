@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme {
+  --font-sans: "Poppins", sans-serif;
+  --font-nunito: "Nunito", sans-serif;
+  --font-vendsans: "Vend Sans", sans-serif;
+}
